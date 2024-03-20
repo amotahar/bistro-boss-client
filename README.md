@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 leran & share
 
 learn & share knowledge 
+learm & share
