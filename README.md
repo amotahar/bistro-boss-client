@@ -1,6 +1,6 @@
 # React + Vite
 vite + React
-vite + Reac
+vite + React
 
 vite + react
 
