@@ -1,6 +1,5 @@
 # React + Vite
-vite + React + sample
-vite + React
+vite + React + class
 
 vite + react
 
