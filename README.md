@@ -1,5 +1,5 @@
 # React + Vite
-vite + React + class
+vite + React + web developer
 
 vite + react
 
