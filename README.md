@@ -1,7 +1,7 @@
 # React + Vite
 vite + React + web developer  + react
 
-vite + react
+vite + react + resize
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
