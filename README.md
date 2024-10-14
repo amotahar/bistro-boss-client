@@ -1,5 +1,5 @@
 # React + Vite
-vite + React + web developer  + react
+vite + React + web developer  + react + activate
 
 vite + react + resize
 
